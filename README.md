@@ -1,8 +1,8 @@
 # Location
 ## Identitas
 * Nama : Muhammad Deva Erlangga
-* Kelas : XI RPL 3
-* Nomor : 20
+* Kelas : XII RPL 4
+* Nomor : 16
 * NIS : 4766/1465.070
 * Sekolah : SMK Telkom Malang
 
